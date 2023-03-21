@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #19191D;
+    font-family: 'Roboto', sans-serif;
+}
+
+.login{
+    display: flex;
+}
+
+.imgInicio{
+    margin-top: 5vh;
+    margin-left: 5vw;
+    width: 40vw;
+    height: 80vh;
+}
+
+.logoTextoEntrada{
+    margin-top: 20vh;
+}
+
+.textoInicio{
+    color: #F2F2F2;
+    font-weight: normal;
+    font-size: 30px;
+    margin-left: 5rem;
+    margin-right: 5rem;
+}
+
+.logoCoover{
+    margin-left: 17rem;
+    width: 15vw;
+    height: 15vh;
+}
+
+.logoMeta{
+    margin-left: 1.5rem;
+}
+
+.botaoMetamask{
+    padding: 10px;
+    background-color: #00C171;
+    color: #fff;
+    border: none;
+    display: flex;
+    border-radius: 8px;
+    margin-top: 5rem;
+    margin-left: 13rem;
+    width: 25vw;
+}
+
+.textoConectar{
+    font-weight: normal;
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
